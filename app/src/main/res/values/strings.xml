@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GaitKeeper</string>
+    <string name="acceleration">Status : </string>
+
+    <string name="acceleration_values">Press Start Training to begin.</string>
+
+    <string name="button_start">Start Training</string>
+    <string name="button_stop">Stop Training</string>
+
+    <string name="login_text">Press Start Authorization to begin.</string>
+    <string name="button_start_login">Start Authorization</string>
+    <string name="button_login">Stop and Login</string>
+
+    <string name="client_id">Please enter the Client ID shown on the screen you are trying to connect to:</string>
+</resources>
